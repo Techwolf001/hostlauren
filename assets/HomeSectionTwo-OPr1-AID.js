@@ -1,0 +1,1 @@
+import{j as e}from"./index-3ciV5Osy.js";const s=()=>e.jsx("div",{className:"bg-[#ddd] px-24 com:px-52 py-32 block overflow-hidden",children:e.jsx("img",{src:"/credentials.jpeg",alt:"Credentials",className:"max-w-full h-auto align-middle border-none"})});export{s as H};
